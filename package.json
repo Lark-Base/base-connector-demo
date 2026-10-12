@@ -1,0 +1,14 @@
+{
+  "name": "base-connector-demo",
+  "version": "1.0.0",
+  "description": "Minimal Lark Base data connector demo.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/server.test.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "ISC"
+}
